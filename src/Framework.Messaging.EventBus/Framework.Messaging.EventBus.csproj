@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup Label="Globals">
+    <SccProjectName>%24/TI/Framework/Branches/225974/src/Framework.Messaging.EventBus</SccProjectName>
+    <SccProvider>{4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}</SccProvider>
+    <SccAuxPath>https://tfs.viajanet.com.br/tfs/viajanet</SccAuxPath>
+    <SccLocalPath>.</SccLocalPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetFrameworks>net472;netstandard2.0</TargetFrameworks>
+    <Version>2.0.0.2</Version>
+    <FileVersion>2.0.0.2</FileVersion>
+    <PackageVersion>2.0.0.2-225974</PackageVersion>
+    <Product>Framework.Messaging.EventBus</Product>
+    <Title>Framework.Messaging.EventBus</Title>
+    <Company>ViajaNet</Company>
+    <Copyright>Copyright ©  2019</Copyright>
+    <Description>Biblioteca de contratos do padrão EventBus</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Framework.Messaging.EventBus</PackageId>
+  </PropertyGroup>
+
+</Project>
