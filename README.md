@@ -6,12 +6,12 @@ A library that implements the concept of EventBus using the RabbitMQ message bro
 
 ## Usage
 
-comming soon
+coming soon
 
 ### to subscribe
 
-comming soon
+coming soon
 
 ### to publish
 
-comming soon
+coming soon
